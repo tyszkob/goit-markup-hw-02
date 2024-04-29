@@ -1,0 +1,66 @@
+body {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 2px;
+    color: #434455;
+}
+h1 {
+    color:
+            #ffffff;
+             text-align: center;
+             vertical-align: text-top;
+              font-size: 56px;
+                line-height: 107%;
+    }
+h2 {
+    color:#2e2f42;
+    text-align: center;
+     vertical-align: text-top;
+      font-size: 36px; 
+        line-height: 111%;
+}
+h3 {
+    color:#2e2f42;
+     text-align: left;
+      vertical-align: text-top;
+       font-size: 20px;
+          line-height: 120%;
+}
+.page-nav{
+    color:#2e2f42;
+     text-align: left;
+      vertical-align: text-top;
+       font-size: 16px;
+       line-height: 150%;
+}
+.page-links{
+ text-align: left;
+  vertical-align: text-top; 
+  font-size: 16px;
+   line-height: 150%; 
+}
+.text{
+ text-align: left;
+  vertical-align: text-top; 
+  font-size: 16px; 
+  line-height: 150%; 
+}
+.position{
+     text-align: center;
+      vertical-align: text-top;
+       font-size: 16px;
+        line-height: 150%;
+}
+.welcome{
+    background-color: #2E2F42;
+}
+.team{
+    background: #f4f4fd;
+}
+footer{
+    color: #f4f4fd;
+        text-align: left;
+        vertical-align: text-top;
+        font-size: 16px;
+        line-height: 150%;
+    background-color: #2e2f42;
+}
