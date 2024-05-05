@@ -1,7 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
-    letter-spacing: 2px;
+    letter-spacing: 0.02em;
     color: #434455;
+    background-color: #ffffff;
 }
 h1 {
     color:
@@ -50,8 +51,9 @@ h3 {
        font-size: 16px;
         line-height: 150%;
 }
-.welcome{
+.hello{
     background-color: #2E2F42;
+    
 }
 .team{
     background: #f4f4fd;
@@ -63,4 +65,21 @@ footer{
         font-size: 16px;
         line-height: 150%;
     background-color: #2e2f42;
+}
+.button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    div {
+            background-color: #404BBF,
+        }
+    
+        div:hover {
+            background-color: #404BBF;
+        }
+        cursor: pointer;
 }
