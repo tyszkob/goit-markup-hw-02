@@ -76,11 +76,11 @@ footer{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    div {
+   div {
             background-color: #404BBF,
 }
    .button:hover {
        color: #404BBF;
    }
        cursor: pointer;
-   }
+}
