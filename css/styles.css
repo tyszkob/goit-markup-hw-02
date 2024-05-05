@@ -78,10 +78,9 @@ footer{
     color: #ffffff;
     div {
             background-color: #404BBF,
-        }
-    
-        div:hover {
-            background-color: #404BBF;
-        }
-        cursor: pointer;
 }
+   .button:hover {
+       color: #404BBF;
+   }
+       cursor: pointer;
+   }
