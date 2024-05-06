@@ -52,8 +52,10 @@ h3 {
        font-size: 16px;
         line-height: 150%;
 }
-.cześć{
-    background-color: #2E2F42;
+.pierwsza{
+    background-color: #2e2f42;
+}
+.powitanie{
     letter-spacing: 0.02em
 }
 .guzik{
