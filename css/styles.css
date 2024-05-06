@@ -71,7 +71,9 @@ h3 {
 .button:hover {
     background-color: #404BBF;
 }
-
+.button:focus {
+    background-color: #404BBF;
+}
 .team {
     background: #f4f4fd;
 }
