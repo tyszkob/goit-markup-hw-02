@@ -126,13 +126,13 @@ footer {
 .studio {
     color: #f4f4fd;
 }
-.class {
+.menu {
     font-weight: 500;
     color: #2e2f42;
 }
-.class:hover {
+.menu:hover {
     color: #404bbf;
 }
-.class:focus {
+.menu:focus {
     color: #404bbf;
 }
