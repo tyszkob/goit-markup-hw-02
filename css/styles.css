@@ -21,6 +21,7 @@ h2 {
         line-height: 111%;
         letter-spacing: 0.02em;
         font-weight: 500;
+        text-transform: capitalize;
 }
 h3 {
     color:#2e2f42;
